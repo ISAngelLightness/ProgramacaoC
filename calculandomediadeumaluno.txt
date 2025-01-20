@@ -1,0 +1,9 @@
+inicio:
+    pedir a primeira nota do aluno.
+    coletar a primeira nota do aluno.
+    pedir a segunda nota do aluno.
+    coletar a primeira nota do aluno.
+    somar primeira e segunda nota do aluno.
+    dividir o resultado da soma das duas notas por 2.
+    imprimir resultado qual foi a media do aluno.
+fim;
